@@ -1,0 +1,10 @@
+C:\CSHARP\LogicielFinal\LogicielFinal\bin\Debug\LogicielFinal.exe.config
+C:\CSHARP\LogicielFinal\LogicielFinal\bin\Debug\LogicielFinal.exe
+C:\CSHARP\LogicielFinal\LogicielFinal\bin\Debug\LogicielFinal.pdb
+C:\CSHARP\LogicielFinal\LogicielFinal\obj\Debug\LogicielFinal.csproj.AssemblyReference.cache
+C:\CSHARP\LogicielFinal\LogicielFinal\obj\Debug\LogicielFinal.Form1.resources
+C:\CSHARP\LogicielFinal\LogicielFinal\obj\Debug\LogicielFinal.Properties.Resources.resources
+C:\CSHARP\LogicielFinal\LogicielFinal\obj\Debug\LogicielFinal.csproj.GenerateResource.cache
+C:\CSHARP\LogicielFinal\LogicielFinal\obj\Debug\LogicielFinal.csproj.CoreCompileInputs.cache
+C:\CSHARP\LogicielFinal\LogicielFinal\obj\Debug\LogicielFinal.exe
+C:\CSHARP\LogicielFinal\LogicielFinal\obj\Debug\LogicielFinal.pdb
