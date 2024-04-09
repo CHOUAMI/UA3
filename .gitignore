@@ -1,0 +1,19 @@
+# Ignorer les fichiers de Visual Studio
+*.vs/
+*.suo
+*.user
+*.csproj.user
+*.sln
+*.csproj
+/bin/
+/obj/
+
+# Ignorer les packages NuGet
+/packages/
+
+# Ignorer les sorties de build
+/bin/
+/obj/
+
+# Ignorer les fichiers générés par Visual Studio Code
+.vscode/
