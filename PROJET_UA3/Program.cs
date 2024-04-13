@@ -22,9 +22,9 @@ namespace PROJET_UA3
                 Console.WriteLine("1. Créer étudiant");
                 Console.WriteLine("2. Afficher étudient(s)");
                 Console.WriteLine("3. Créer Cours");
-                Console.WriteLine("4. Afficher Cours");
-                Console.WriteLine("5. Entrer Note");
-                Console.WriteLine("6. Afficher Note ");
+                Console.WriteLine("4. Afficher les Cours");
+                Console.WriteLine("5. Entrer les Notes");
+                Console.WriteLine("6. Afficher les Notes ");
                 Console.WriteLine("7. Afficher le relevé de Note");
                 Console.WriteLine("8. Sorti");
                 Console.Write("Selectioner autre option: ");
@@ -143,6 +143,8 @@ namespace PROJET_UA3
             if (student != null)
             {
                 string fileName = $"StudentReport_{studentNumber}.txt";
+
+                // Write student information and grades to file
                 using (StreamWriter writer = new StreamWriter(fileName))
                 {
                     writer.WriteLine(student);
@@ -155,12 +157,26 @@ namespace PROJET_UA3
                         }
                     }
                 }
+
                 Console.WriteLine($"Report generated: {fileName}");
+
+                // Display the contents of the file in the console
+                using (StreamReader reader = new StreamReader(fileName))
+                {
+                    Console.WriteLine("\n--- Student Report ---");
+                    string line;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        Console.WriteLine(line);
+                    }
+                    Console.WriteLine("\n--- End of Report ---");
+                }
             }
             else
             {
                 Console.WriteLine("Student not found.");
             }
         }
+
     }
 }
