@@ -1,0 +1,7 @@
+C:\Users\PHILIPPE HOFFMANN\source\repos\PROJET_UA3\PROJET_UA3\bin\Debug\PROJET_UA3.exe.config
+C:\Users\PHILIPPE HOFFMANN\source\repos\PROJET_UA3\PROJET_UA3\bin\Debug\PROJET_UA3.exe
+C:\Users\PHILIPPE HOFFMANN\source\repos\PROJET_UA3\PROJET_UA3\bin\Debug\PROJET_UA3.pdb
+C:\Users\PHILIPPE HOFFMANN\source\repos\PROJET_UA3\PROJET_UA3\obj\Debug\PROJET_UA3.csproj.AssemblyReference.cache
+C:\Users\PHILIPPE HOFFMANN\source\repos\PROJET_UA3\PROJET_UA3\obj\Debug\PROJET_UA3.csproj.CoreCompileInputs.cache
+C:\Users\PHILIPPE HOFFMANN\source\repos\PROJET_UA3\PROJET_UA3\obj\Debug\PROJET_UA3.exe
+C:\Users\PHILIPPE HOFFMANN\source\repos\PROJET_UA3\PROJET_UA3\obj\Debug\PROJET_UA3.pdb
